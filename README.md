@@ -14,7 +14,7 @@ $ cd Carlober-DDos
 
 $ bash install.sh
 
-$ python Carlober-DDos
+$ python3 Carlober-DDos
 ```
 
 **Linux:**
@@ -23,7 +23,7 @@ $ https://github.com/TheCarlober/Carlober-DDos
 
 $ cd Carlober-DDos
 
-$ python Carlober-DDos
+$ python3 Carlober-DDos
 
 ```
 # Redes
