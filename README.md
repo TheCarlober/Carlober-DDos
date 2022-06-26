@@ -40,8 +40,12 @@ https://www.instagram.com/carlober__/
 # Telegram: 
 https://t.me/Carloberhacking17
 
-# Discord: 
+# Discord: ![photo1652720548](https://user-images.githubusercontent.com/86197463/175801434-bacd2068-75fb-4044-ac03-62c123a13d73.jpeg)
+
 https://discord.gg/2yb849jYMK
+
+![photo1652720548](https://user-images.githubusercontent.com/86197463/175801434-bacd2068-75fb-4044-ac03-62c123a13d73.jpeg)
+
 
 
 
