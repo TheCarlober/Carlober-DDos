@@ -1,6 +1,8 @@
 # Carlober-DDos
 # Disclaimer: 
 >Este script es solo para fines educativos. No me hago responsable de ningun problema o daño causado por este script.
+![Captura de pantalla_2022-06-26_07-46-05](https://user-images.githubusercontent.com/86197463/175801194-d9bb054d-26f6-41ef-ab86-dea8adc418aa.png)
+
 
 **Instalacion Termux:**
 ```
