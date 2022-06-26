@@ -26,18 +26,18 @@ Este script es solo para fines educativos. No me hago responsable de ningun prob
 ```
 # Redes
 
-# >Tik Tok : 
+# Tik Tok : 
 https://www.tiktok.com/@carlober_/
 
-# >Youtube: 
+# Youtube: 
 http://lnnk.in/haeU
 
-# >Instagram: 
+# Instagram: 
 https://www.instagram.com/carlober__/
 
-# >Telegram: 
+# Telegram: 
 https://t.me/Carloberhacking17
 
-# >Discord: 
+# Discord: 
 https://discord.gg/2yb849jYMK
 
