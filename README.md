@@ -23,3 +23,6 @@ Este script es solo para fines educativos. No me hago responsable de ningun prob
 >$ python Carlober-DDos
 
 ```
+# Redes
+
+>Tik Tok : https://www.tiktok.com/@carlober_
