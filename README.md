@@ -5,13 +5,13 @@ Instalacion
 
 Termux:
 
-$ pkg install git -y
+>$ pkg install git -y
 
-$ https://github.com/TheCarlober/Carlober-DDos
+>$ https://github.com/TheCarlober/Carlober-DDos
 
-$ cd Carlober-DDos
+>$ cd Carlober-DDos
 
-$ bash install.sh
+>$ bash install.sh
 
 $ python Carlober-DDos
 Linux:
