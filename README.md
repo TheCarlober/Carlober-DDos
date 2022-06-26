@@ -3,7 +3,7 @@ Este script es solo para fines educativos. No me hago responsable de ningun prob
 
 Instalacion
 
-Termux:
+** **Termux:** **
 
 >$ pkg install git -y
 
@@ -13,11 +13,11 @@ Termux:
 
 >$ bash install.sh
 
-$ python Carlober-DDos
-Linux:
+>$ python Carlober-DDos
+** **Linux:** **
 
-$ https://github.com/TheCarlober/Carlober-DDos
+>$ https://github.com/TheCarlober/Carlober-DDos
 
-$ cd Carlober-DDos
+>$ cd Carlober-DDos
 
-$ python Carlober-DDos
+>$ python Carlober-DDos
