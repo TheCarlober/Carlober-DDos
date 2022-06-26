@@ -4,7 +4,7 @@ Este script es solo para fines educativos. No me hago responsable de ningun prob
 **Instalacion Termux:**
 
 >$ pkg install git -y
-
+```
 >$ https://github.com/TheCarlober/Carlober-DDos
 
 >$ cd Carlober-DDos
@@ -12,7 +12,7 @@ Este script es solo para fines educativos. No me hago responsable de ningun prob
 >$ bash install.sh
 
 >$ python Carlober-DDos
-
+```
 
 **Linux:**
 
@@ -22,6 +22,4 @@ Este script es solo para fines educativos. No me hago responsable de ningun prob
 
 >$ python Carlober-DDos
 
-###Redes
 
-###Tik Tok: https://www.tiktok.com/@carlober_
